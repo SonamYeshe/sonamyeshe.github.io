@@ -85,7 +85,7 @@ content:
       - layout: left
         title: >
           <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="ASTR" width="200" height="150" style="border-radius: 8px;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/ICRA24_4782_GraphicalAbstract.png" alt="ASTR" width="200" height="110" style="border-radius: 8px;">
           </div>
         description: | # this will include new lines to allow paragraphs
           <a href="https://ieeexplore.ieee.org/abstract/document/10354422" style="color: #007BFF;" target="_blank"><b>Autonomous System for Tumor Resection (ASTR) - Dual-Arm Robotic Midline Partial Glossectomy</b></a>
