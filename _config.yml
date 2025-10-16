@@ -73,15 +73,15 @@ content:
         # quote: >
         #  A fluorescent suture could brighten up surgical outcomes.
         description: | # this will include new lines to allow paragraphs
-          <b>A Fluorescent Suture and Surgical Planner for Image Guided Surgery<\b>
+          <b>A Fluorescent Suture and Surgical Planner for Image Guided Surgery</b>
           
-          Justin D. Opfermann, Jiawei Ge, Yaning Wang, Minjae Do, Jin U. Kang, and Axel Krieger.
+          Justin D. Opfermann, <b>Jiawei Ge</b>, Yaning Wang, Minjae Do, Jin U. Kang, and Axel Krieger.
 
           <i>Student Design Showcase, Design of Medical Devices Conference, 2024.</i>
           
           Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.
 
-          Learn more about this initiative on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a>, or <a href="https://youtube.com/watch?v=fkAbShu2kCk" style="color: #007BFF;" target="_blank">Watch it on YouTube</a>..
+          Learn more about this initiative on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtube.com/watch?v=fkAbShu2kCk" style="color: #007BFF;" target="_blank">YouTube</a>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
