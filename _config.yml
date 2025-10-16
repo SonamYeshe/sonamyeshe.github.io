@@ -49,7 +49,8 @@ about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, I'm Jiawei, a Ph.D. in Mechanical Engineering and a Medical Roboticist with over 8 years of experience advancing autonomy in robotic surgery. My work is dedicated to achieving higher levels of precision and efficiency, with a focus on autonomous robotic solutions for cancer surgery.
-#   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  
+  I work with Professor Axel Krieger in the [IMERSE Lab](https://imerse.lcsr.jhu.edu), where we develop cutting-edge technologies to revolutionize robotic-assisted surgeries and improve patient outcomes.
 
 content:
   - title: Projects # Title for the section
