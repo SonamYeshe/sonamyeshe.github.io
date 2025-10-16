@@ -142,14 +142,14 @@ content:
         description:
           TODO.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       <!-- Look at this cool image -->
       <!-- ![Trees](https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG) -->
