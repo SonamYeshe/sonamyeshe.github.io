@@ -67,6 +67,7 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        image: https://drive.google.com/file/d/1xDroQQlZfarO1Po2m6O2EWqiK0Sdqf1q/view?usp=sharing
         quote: >
           A fluorescent suture could brighten up surgical outcomes.
         description: | # this will include new lines to allow paragraphs
