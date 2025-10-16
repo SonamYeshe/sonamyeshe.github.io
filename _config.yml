@@ -57,7 +57,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Glow and Sew sutures
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Glow and Sew" width="200" height="150" style="border-radius: 8px;">
+          </div>
         link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons
         # link_text: Project Website
         additional_links:
