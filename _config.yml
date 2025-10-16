@@ -58,7 +58,8 @@ content:
     content:
       - layout: top-middle
         title: Glow and Sew sutures
-        link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons/
+        <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Trees" width="300" height="200">
+        link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons
         # link_text: Project Website
         additional_links:
           - title: Watch on YouTube
@@ -67,7 +68,6 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        image: https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG
         quote: >
           A fluorescent suture could brighten up surgical outcomes.
         description: | # this will include new lines to allow paragraphs
@@ -126,8 +126,8 @@ content:
       - Knitting
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG)
+      # Look at this cool image  
+      # ![Trees](https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG)
 
 # Footer
 footer_show_references: true
