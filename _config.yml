@@ -77,11 +77,26 @@ content:
           
           Justin D. Opfermann, <b>Jiawei Ge</b>, Yaning Wang, Minjae Do, Jin U. Kang, and Axel Krieger.
 
-          <i>Student Design Showcase, Design of Medical Devices Conference, 2024.</i>
+          <i>Student Design Showcase, Design of Medical Devices Conference (DMD), 2024.</i>
           
           Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.
 
-          Learn more about this initiative on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtube.com/watch?v=fkAbShu2kCk" style="color: #007BFF;" target="_blank">YouTube</a>.
+          Learn more on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtube.com/watch?v=fkAbShu2kCk" style="color: #007BFF;" target="_blank">YouTube</a>.
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="ASTR" width="200" height="150" style="border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://ieeexplore.ieee.org/abstract/document/10354422" style="color: #007BFF;" target="_blank"><b>Autonomous System for Tumor Resection (ASTR) - Dual-Arm Robotic Midline Partial Glossectomy</b></a>
+          
+          <b>Jiawei Ge</b>, Michael Kam, Justin D. Opfermann, Hamed Saeidi, Simon Leonard, Leila J. Mady, Martin J. Schnermann, and Axel Krieger.
+
+          <i> IEEE Robotics and Automation Letters (RA-L) 2024</i>
+          
+          Introduced the development of the ASTR, a pioneering autonomous, dual-arm, vision-guided robotic system, specifically designed for the high-autonomy (level 4) surgical task of tumor resection.
+
+          Learn more on <a href="https://engineering.jhu.edu/news/doctor-within-borders-robotic-surgeon-precisely-removes-cancerous-tumors" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtu.be/j16EoTRGxH8" style="color: #007BFF;" target="_blank">Video Submission to 2024 IEEE International Conference on Robotics and Automation (ICRA)</a>.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
