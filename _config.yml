@@ -72,7 +72,24 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Glow and Sew" width="300" height="200" style="display: block; margin: 0 auto;">
           
-          Unlike typical sutures, the Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.  
+          Unlike typical sutures, the Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.
+      - layout: left
+        title: Glow and Sew
+        link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons
+        # link_text: Project Website
+        additional_links:
+          - title: Watch on YouTube
+            icon: fab fa-youtube
+            url: youtube.com/watch?v=fkAbShu2kCk
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A fluorescent suture could brighten up surgical outcomes.
+        description: | # this will include new lines to allow paragraphs
+          <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Glow and Sew" width="300" height="200" style="display: block; margin: 0 auto;">
+          
+          Unlike typical sutures, the Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.            
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
