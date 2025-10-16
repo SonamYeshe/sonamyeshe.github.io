@@ -58,7 +58,6 @@ content:
     content:
       - layout: top-middle
         title: Glow and Sew sutures
-        <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Trees" width="300" height="200">
         link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons
         # link_text: Project Website
         additional_links:
@@ -71,6 +70,7 @@ content:
         quote: >
           A fluorescent suture could brighten up surgical outcomes.
         description: | # this will include new lines to allow paragraphs
+          <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Trees" width="300" height="200">
           Unlike typical sutures, the Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.  
 
   - title: Experience # Title for the section
