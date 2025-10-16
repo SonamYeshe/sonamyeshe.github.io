@@ -63,25 +63,25 @@ content:
           </div>
         # link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons
         # link_text: Project Website
-        additional_links:
-          - title: Watch on YouTube
-            icon: fab fa-youtube
-            url: youtube.com/watch?v=fkAbShu2kCk
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          A fluorescent suture could brighten up surgical outcomes.
+        # additional_links:
+        #  - title: Watch on YouTube
+        #    icon: fab fa-youtube
+        #    url: youtube.com/watch?v=fkAbShu2kCk
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #  A fluorescent suture could brighten up surgical outcomes.
         description: | # this will include new lines to allow paragraphs
-          A Fluorescent Suture and Surgical Planner for Image Guided Surgery
+          <b>A Fluorescent Suture and Surgical Planner for Image Guided Surgery<\b>
           
           Justin D. Opfermann, Jiawei Ge, Yaning Wang, Minjae Do, Jin U. Kang, and Axel Krieger.
 
-          Student Design Showcase, Design of Medical Devices Conference, 2024.
+          <i>Student Design Showcase, Design of Medical Devices Conference, 2024.</i>
           
           Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.
 
-          Learn more about this initiative on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins Giving</a>.
+          Learn more about this initiative on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a>, or <a href="https://youtube.com/watch?v=fkAbShu2kCk" style="color: #007BFF;" target="_blank">Watch it on YouTube</a>..
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
