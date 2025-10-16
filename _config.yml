@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   I work with Professor Axel Krieger in the [IMERSE Lab](https://imerse.lcsr.jhu.edu), where we develop cutting-edge technologies to revolutionize robotic-assisted surgeries and improve patient outcomes.
 
 content:
-  - title: Projects # Title for the section
+  - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -73,7 +73,7 @@ content:
           <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG" alt="Glow and Sew" width="300" height="200" style="display: block; margin: 0 auto;">
           
           Unlike typical sutures, the Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.
-      - layout: left
+      - layout: right
         title: Glow and Sew
         link: giving.jhu.edu/story/fluorescent-suture-could-help-surgeons
         # link_text: Project Website
