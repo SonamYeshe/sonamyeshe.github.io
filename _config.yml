@@ -16,7 +16,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-#github_username:  sonamyeshe
+github_username: sonamyeshe
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -151,8 +151,8 @@ content:
 #      - Knitting
 #      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      <!-- Look at this cool image -->
-      <!-- ![Trees](https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG) -->
+#      <!-- Look at this cool image -->
+#      <!-- ![Trees](https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/glow_and_sew.JPG) -->
 
 # Footer
 footer_show_references: true
