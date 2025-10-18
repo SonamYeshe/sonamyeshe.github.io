@@ -60,6 +60,22 @@ content:
       - layout: left
         title: >
           <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2025_JMRR_CAO_Resection.JPG" alt="2025_JMRR_CAO_Resection" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://www.worldscientific.com/doi/abs/10.1142/S2424905X25500084" style="color: #007BFF;" target="_blank"><b>Autonomous Vision-Guided Resection of Central Airway Obstruction</b></a>
+          
+          Mariana E. Smith<sup>†</sup>, Nural Yilmaz<sup>†</sup>, Tanner Watts, Paul Maria Scheikl, <b>Jiawei Ge</b>, Anton Deguet, Alan Kuntz, and Axel Krieger.
+
+          <i> Journal of Medical Robotics Research (JMRR), 2025.</i>
+          
+          We propose a vision-guided, autonomous robotic system for precise palliative tracheal tumor resection, achieving over 90% volumetric tumor removal while maintaining a 1mm safety clearance from the tracheal surface in ex-vivo validation experiments.
+
+          Learn more on <a href="https://youtu.be/Oh-Iq1PY3qY" style="color: #007BFF;" target="_blank">Video Submission for JMRR/ISMR 2025</a>.
+      - layout: left
+        title: >
+          <div style="text-align: center;">
             <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2024_IROS_Nephrectomy.jpg" alt="2024_IROS_Nephrectomy" 
                  style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
           </div>
