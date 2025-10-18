@@ -232,6 +232,21 @@ content:
           
           We present a dual-arm suturing robotic system that integrates novel near-infrared fluorescent sutures and automates thread management, achieving superior performance and consistency compared to human surgeons in ex-vivo and in-vivo vaginal cuff closure experiments.
 
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2021_BIBE_Glossectomy.JPG" alt="2021_BIBE_Glossectomy" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://ieeexplore.ieee.org/abstract/document/9635563" style="color: #007BFF;" target="_blank"><b>Supervised Autonomous Electrosurgery for Soft Tissue Resection</b></a>
+          
+          <b>Jiawei Ge</b>, Hamed Saeidi, Michael Kam, Justin Opfermann, Axel Krieger.
+
+          <i>IEEE International Conference on Bioinformatics and Bioengineering (BIBE), 2021.</i>
+          
+          We present a robotic supervised autonomous electrosurgery system that integrates dual-camera NIR tracking and a dual-robot workflow, achieving precise soft tissue tumor resections with average surface and depth errors of 1.19 mm and 1.83 mm, respectively, in cadaveric porcine tongue experiments.
+
   - title: Ph.D. Thesis
     layout: list
     content:
