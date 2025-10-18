@@ -64,7 +64,7 @@ content:
                  style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
           </div>
         description: | # this will include new lines to allow paragraphs
-          <a href="https://ieeexplore.ieee.org/abstract/document/10802114" style="color: #007BFF;" target="_blank"><b>Enhancing Surgical Precision in Autonomous Robotic Incisions via Physics-Based Tissue Cutting Simulation</b></a>
+          <a href="https://ieeexplore.ieee.org/abstract/document/10802114" style="color: #007BFF;" target="_blank"><b>Tracking Tumors under Deformation from Partial Point Clouds using Occupancy Networks</b></a>
           
           Pit Henrich<sup>†</sup>, Jiawei Liu<sup>†</sup>, <b>Jiawei Ge</b>, Samuel Schmidgall, Lauren Shepard, Ahmed Ezzat Ghazi, Franziska Mathis-Ullrich, Axel Krieger.
 
