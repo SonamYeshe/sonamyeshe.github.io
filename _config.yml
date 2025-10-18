@@ -106,6 +106,20 @@ content:
       - layout: left
         title: >
           <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2025_TMRB_Electrosurgery_MK.JPG" alt="2025_TMRB_Electrosurgery_MK" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://ieeexplore.ieee.org/abstract/document/11051047" style="color: #007BFF;" target="_blank"><b>Autonomous Closed-Loop Control for Robotic Soft Tissue Electrosurgery Using RGB-D Image Guidance</b></a>
+          
+          Michael Kam, <b>Jiawei Ge</b>, Naveed D Riaziat, Justin D Opfermann, Leila J Mady, Jeremy D Brown, Axel Krieger.
+
+          <i>IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2025.</i>
+          
+          We present an autonomous closed-loop robotic electrosurgery system that leverages 3D tissue tracking and image-based feedback control to enhance margin accuracy, achieving a 55% reduction in cutting error during tumor excision in ex vivo porcine tongue validation experiments.
+      - layout: left
+        title: >
+          <div style="text-align: center;">
             <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2024_IROS_Glossectomy.PNG" alt="2024_IROS_Glossectomy" 
                  style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
           </div>
