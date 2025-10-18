@@ -66,7 +66,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <a href="https://ieeexplore.ieee.org/abstract/document/10802347" style="color: #007BFF;" target="_blank"><b>Enhancing Surgical Precision in Autonomous Robotic Incisions via Physics-Based Tissue Cutting Simulation</b></a>
           
-          <b>Jiawei Ge</b>, Ethan Kilmer, Leila J Mady, Justin D Opfermann, Axel Krieger.
+          <b>Jiawei Ge†</b>, Ethan Kilmer†, Leila J Mady, Justin D Opfermann, Axel Krieger.
 
           <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
           
