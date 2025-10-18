@@ -262,6 +262,21 @@ content:
           
           We introduce a novel near-infrared fluorescent marker that outperforms traditional India Ink in durability, visibility, and biocompatibility, maintaining consistent tumor localization and mapping during a six-week in vivo study and remaining visible even after electrosurgery.
 
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2020_JMED.JPG" alt="2020_JMED" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://asmedigitalcollection.asme.org/medicaldevices/article/16/1/011001/1120620/Positive-Pressure-Testing-Booths-Development-and" style="color: #007BFF;" target="_blank"><b>Positive Pressure Testing Booths Development and Deployment in Response to the COVID-19 Outbreak</b></a>
+          
+          Kevin Aroom, <b>Jiawei Ge</b>, Lidia Al-Zogbi, Marcee White, Adrienne Trustman, Adena Greenbaum, Jason Farley, Axel Krieger.
+
+          <i>ASME Journal of Medical Devices (JMED), 2022.</i>
+          
+          We developed and deployed affordable positive-pressure COVID-19 testing booths, meeting CDC standards and enhancing accessibility, safety, and personal protective equipment conservation, with no reported health care provider infections across five units in Baltimore.
+
   - title: Ph.D. Thesis
     layout: list
     content:
