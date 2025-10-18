@@ -68,7 +68,7 @@ content:
           
           Ethan Kilmer<sup>†</sup>, Joseph Chen<sup>†</sup>, <b>Jiawei Ge</b>, Preksha Sarda, Richard Cha, Kevin Cleary, Lauren Shepard, Ahmed Ezzat Ghazi, Paul Maria Scheikl, and Axel Krieger.
 
-          <i> Journal of Medical Robotics Research (JMRR), 2025.</i>
+          <i>Journal of Medical Robotics Research (JMRR), 2025.</i>
           
           We developed a fluorescence-guided autonomous robotic system, validated with novel hydrogel-based kidney phantoms, that enables precise resection of exophytic renal tumors with a clinically relevant margin accuracy of 1.44 mm in under 70 seconds.
 
@@ -84,7 +84,7 @@ content:
           
           Mariana E. Smith<sup>†</sup>, Nural Yilmaz<sup>†</sup>, Tanner Watts, Paul Maria Scheikl, <b>Jiawei Ge</b>, Anton Deguet, Alan Kuntz, and Axel Krieger.
 
-          <i> Journal of Medical Robotics Research (JMRR), 2025.</i>
+          <i>Journal of Medical Robotics Research (JMRR), 2025.</i>
           
           We propose a vision-guided, autonomous robotic system for precise palliative tracheal tumor resection, achieving over 90% volumetric tumor removal while maintaining a 1mm safety clearance from the tracheal surface in ex-vivo validation experiments.
 
@@ -130,7 +130,7 @@ content:
           
           Pit Henrich<sup>†</sup>, Jiawei Liu<sup>†</sup>, <b>Jiawei Ge</b>, Samuel Schmidgall, Lauren Shepard, Ahmed Ezzat Ghazi, Franziska Mathis-Ullrich, Axel Krieger.
 
-          <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
+          <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
           
           We developed an occupancy network-based approach for real-time tumor localization in deforming kidney phantoms during robot-assisted partial nephrectomy (RAPN), enabling accurate volumetric 3D tumor tracking at interactive speeds to enhance surgical precision.
       - layout: left
@@ -144,7 +144,7 @@ content:
           
           <b>Jiawei Ge<sup>†</sup></b>, Ethan Kilmer<sup>†</sup>, Leila J Mady, Justin D Opfermann, Axel Krieger.
 
-          <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
+          <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
           
           Integrated physics-based cutting simulations with the Autonomous System for Tumor Resection (ASTR) to enhance precision in soft tissue tumor surgeries by preoperatively predicting and compensating for tool-tissue interaction deformations.
 
@@ -187,11 +187,27 @@ content:
           
           <b>Jiawei Ge</b>, Michael Kam, Justin D. Opfermann, Hamed Saeidi, Simon Leonard, Leila J. Mady, Martin J. Schnermann, and Axel Krieger.
 
-          <i> IEEE Robotics and Automation Letters (RA-L), 2024.</i>
+          <i>IEEE Robotics and Automation Letters (RA-L), 2024.</i>
           
           Introduced the development of the ASTR, a pioneering autonomous, dual-arm, vision-guided robotic system, specifically designed for the high-autonomy (level 4) surgical task of tumor resection.
 
           Learn more on <a href="https://engineering.jhu.edu/news/doctor-within-borders-robotic-surgeon-precisely-removes-cancerous-tumors" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtu.be/j16EoTRGxH8" style="color: #007BFF;" target="_blank">Oral Presentation video for ICRA 2024</a>.
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2022_AIS_MPACT.JPG" alt="MPACT" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200072" style="color: #007BFF;" target="_blank"><b>Overcoming the Force Limitations of Magnetic Robotic Surgery: Magnetic Pulse Actuated Collisions for Tissue-Penetrating-Needle for Tetherless Interventions</b></a>
+          
+          Onder Erin, Xiaolong Liu, <b>Jiawei Ge</b>, Justin Opfermann, Yotam Barnoy, Lamar O. Mair, Jin U. Kang, William Gensheimer, Irving N. Weinberg, Yancy Diaz-Mercado, and Axel Krieger.
+
+          <i>Advanced Intelligent Systems (AIS), 2022.</i>
+          
+          We propose the MPACT-Needle, a magnetically actuated impact force-based suture needle that achieves a 22.7-fold increase in penetration force with a 20x smaller volume, enabling precise tissue penetration for ultraminimally invasive surgical tasks such as suturing, corneal injections, and transscleral drug delivery.
+
+          Learn more on <a href="https://youtu.be/y80xl7Zjnk0" style="color: #007BFF;" target="_blank">Vidio submission part 1</a> and <a href="https://youtu.be/HFYzS3b6fKw" style="color: #007BFF;" target="_blank">Vidio submission part 2</a> for AIS 2022.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
