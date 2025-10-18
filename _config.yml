@@ -72,7 +72,7 @@ content:
           
           Integrated physics-based cutting simulations with the Autonomous System for Tumor Resection (ASTR) to enhance precision in soft tissue tumor surgeries by preoperatively predicting and compensating for tool-tissue interaction deformations.
 
-          Learn more on <a href="https://youtu.be/QaNAIm-xUv0" style="color: #007BFF;" target="_blank">Oral Pitch Presentation video on 2024 IROS</a>.    
+          Learn more on <a href="https://youtu.be/QaNAIm-xUv0" style="color: #007BFF;" target="_blank">Oral Pitch Presentation video for IROS 2024</a>.    
       - layout: left
         title: >
           <div style="text-align: center;">
@@ -99,7 +99,7 @@ content:
           
           Glow and Sew suture is coated in fluorescent powder that glows under near-infrared light, which is also able to penetrate through the blood and tissue, allowing surgeons to always see where their stitches are.
 
-          Learn more on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtube.com/watch?v=fkAbShu2kCk" style="color: #007BFF;" target="_blank">YouTube</a>.
+          Learn more on <a href="https://giving.jhu.edu/story/fluorescent-suture-could-help-surgeons" style="color: #007BFF;" target="_blank">Johns Hopkins News</a>.
       - layout: left
         title: >
           <div style="text-align: center;">
@@ -115,7 +115,7 @@ content:
           
           Introduced the development of the ASTR, a pioneering autonomous, dual-arm, vision-guided robotic system, specifically designed for the high-autonomy (level 4) surgical task of tumor resection.
 
-          Learn more on <a href="https://engineering.jhu.edu/news/doctor-within-borders-robotic-surgeon-precisely-removes-cancerous-tumors" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtu.be/j16EoTRGxH8" style="color: #007BFF;" target="_blank">Oral Presentation video on 2024 IEEE International Conference on Robotics and Automation (ICRA)</a>.
+          Learn more on <a href="https://engineering.jhu.edu/news/doctor-within-borders-robotic-surgeon-precisely-removes-cancerous-tumors" style="color: #007BFF;" target="_blank">Johns Hopkins News</a> or <a href="https://youtu.be/j16EoTRGxH8" style="color: #007BFF;" target="_blank">Oral Presentation video for IEEE International Conference on Robotics and Automation (ICRA) 2024</a>.
 
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
