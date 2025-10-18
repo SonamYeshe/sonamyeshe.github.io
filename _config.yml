@@ -209,6 +209,12 @@ content:
 
           Learn more on <a href="https://youtu.be/y80xl7Zjnk0" style="color: #007BFF;" target="_blank">Video submission part 1</a> and <a href="https://youtu.be/HFYzS3b6fKw" style="color: #007BFF;" target="_blank">Video submission part 2</a> for AIS 2022.
 
+- title: Ph.D. Thesis
+  layout: list
+  content:
+    - layout: top-middle
+      title: Advances in Medical Image Guided Autonomous Robotic Tumor Resection
+      
 #  - title: Experience # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
