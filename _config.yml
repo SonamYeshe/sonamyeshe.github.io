@@ -247,6 +247,21 @@ content:
           
           We present a robotic supervised autonomous electrosurgery system that integrates dual-camera NIR tracking and a dual-robot workflow, achieving precise soft tissue tumor resections with average surface and depth errors of 1.19 mm and 1.83 mm, respectively, in cadaveric porcine tongue experiments.
 
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2021_JIOHS_NIRF_Marker.JPG" alt="2021_JIOHS_NIRF_Marker" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://www.worldscientific.com/doi/full/10.1142/S1793545821500139" style="color: #007BFF;" target="_blank"><b>A Novel Indocyanine Green-Based Fluorescent Marker for Guiding Surgical Tumor Resection</b></a>
+          
+          <b>Jiawei Ge</b>, Justin D. Opfermann, Hamed Saeidi, Katherine A. Huenerberg, Christopher D. Badger, Jaepyeong Cha, Martin J. Schnermann, Arjun S. Joshi, and Axel Krieger.
+
+          <i>Journal of Innovative Optical Health Sciences (JIOHS), 2021.</i>
+          
+          We introduce a novel near-infrared fluorescent marker that outperforms traditional India Ink in durability, visibility, and biocompatibility, maintaining consistent tumor localization and mapping during a six-week in vivo study and remaining visible even after electrosurgery.
+
   - title: Ph.D. Thesis
     layout: list
     content:
