@@ -92,20 +92,6 @@ content:
       - layout: left
         title: >
           <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2024_IROS_Nephrectomy.jpg" alt="2024_IROS_Nephrectomy" 
-                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
-          </div>
-        description: | # this will include new lines to allow paragraphs
-          <a href="https://ieeexplore.ieee.org/abstract/document/10802114" style="color: #007BFF;" target="_blank"><b>Tracking Tumors under Deformation from Partial Point Clouds using Occupancy Networks</b></a>
-          
-          Pit Henrich<sup>†</sup>, Jiawei Liu<sup>†</sup>, <b>Jiawei Ge</b>, Samuel Schmidgall, Lauren Shepard, Ahmed Ezzat Ghazi, Franziska Mathis-Ullrich, Axel Krieger.
-
-          <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
-          
-          We developed an occupancy network-based approach for real-time tumor localization in deforming kidney phantoms during robot-assisted partial nephrectomy (RAPN), enabling accurate volumetric 3D tumor tracking at interactive speeds to enhance surgical precision.
-      - layout: left
-        title: >
-          <div style="text-align: center;">
             <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2025_TMRB_Electrosurgery_MK.JPG" alt="2025_TMRB_Electrosurgery_MK" 
                  style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
           </div>
@@ -117,6 +103,36 @@ content:
           <i>IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2025.</i>
           
           We present an autonomous closed-loop robotic electrosurgery system that leverages 3D tissue tracking and image-based feedback control to enhance margin accuracy, achieving a 55% reduction in cutting error during tumor excision in ex vivo porcine tongue validation experiments.
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2025_TMRB_Electrosurgery_HS.JPG" alt="2025_TMRB_Electrosurgery_HS" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://ieeexplore.ieee.org/abstract/document/10964360" style="color: #007BFF;" target="_blank"><b>A Confidence-Based Shared Control Strategy for Robotic Electrosurgery</b></a>
+          
+          Artmeio Meza-Pantoja, Andrew C. Lawson, Charlie C. Caputo, <b>Jiawei Ge</b>, Dale J. Cohen, Axel Krieger, Hamed Saeidi.
+
+          <i>IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2025.</i>
+          
+          We developed a shared control strategy for robotic electrosurgery, combining autonomous precision with human intervention to achieve more accurate soft tissue incisions and reduce human-in-the-loop time by 69.29% in validation experiments on porcine tongue samples.
+
+          Learn more on <a href="https://youtu.be/mUrhwgW4a9Q" style="color: #007BFF;" target="_blank">Video Submission for TMRB 2025</a>.
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2024_IROS_Nephrectomy.jpg" alt="2024_IROS_Nephrectomy" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://ieeexplore.ieee.org/abstract/document/10802114" style="color: #007BFF;" target="_blank"><b>Tracking Tumors under Deformation from Partial Point Clouds using Occupancy Networks</b></a>
+          
+          Pit Henrich<sup>†</sup>, Jiawei Liu<sup>†</sup>, <b>Jiawei Ge</b>, Samuel Schmidgall, Lauren Shepard, Ahmed Ezzat Ghazi, Franziska Mathis-Ullrich, Axel Krieger.
+
+          <i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
+          
+          We developed an occupancy network-based approach for real-time tumor localization in deforming kidney phantoms during robot-assisted partial nephrectomy (RAPN), enabling accurate volumetric 3D tumor tracking at interactive speeds to enhance surgical precision.
       - layout: left
         title: >
           <div style="text-align: center;">
