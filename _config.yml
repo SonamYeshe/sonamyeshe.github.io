@@ -301,7 +301,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_36" style="color: #007BFF;" target="_blank"><b>Landmark-Guided Deformable Image Registration for Supervised Autonomous Robotic Tumor Resection</b></a>
           
-          <b>Jiawei Ge</b>, Hamed Saeidi, Justin D Opfermann, Arjun S Joshi, Axel Krieger
+          <b>Jiawei Ge</b>, Hamed Saeidi, Justin D Opfermann, Arjun S Joshi, Axel Krieger.
 
           <i>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019.</i>
           
