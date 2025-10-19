@@ -294,6 +294,8 @@ content:
           
           We developed a supervised autonomous 3D path planning and control strategy for the Smart Tissue Autonomous Robot (STAR), leveraging biocompatible NIR markers to achieve precise soft tissue incisions, reducing surface and depth errors by over 40% and 50% compared to teleoperation methods.
 
+          Learn more on <a href="https://youtu.be/z4g7qou1E8s" style="color: #007BFF;" target="_blank">Video Submission for TMRB 2019</a>.
+
       - layout: left
         title: >
           <div style="text-align: center;">
