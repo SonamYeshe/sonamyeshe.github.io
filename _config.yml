@@ -9,7 +9,7 @@ version: 2
 name: Jiawei Ge
 title: Postdoctoral Researcher
 email: jge9@jhu.edu & jg3642@columbia.edu
-website: sonamyeshe.github.io
+# website: sonamyeshe.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
