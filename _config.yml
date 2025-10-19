@@ -63,6 +63,8 @@ content:
         
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
+    description: |
+      <i> † indicates equal contributors.</i>
     content:
       - layout: left
         title: >
