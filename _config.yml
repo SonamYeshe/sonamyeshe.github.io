@@ -277,6 +277,21 @@ content:
           
           We developed and deployed affordable positive-pressure COVID-19 testing booths, meeting CDC standards and enhancing accessibility, safety, and personal protective equipment conservation, with no reported health care provider infections across five units in Baltimore.
 
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2019_TMRB.JPG.JPG" alt="2019_TMRB" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://ieeexplore.ieee.org/abstract/document/8884158" style="color: #007BFF;" target="_blank"><b>Supervised Autonomous Electrosurgery via Biocompatible Near-Infrared Tissue Tracking Techniques</b></a>
+          
+          Hamed Saeidi, <b>Jiawei Ge</b>, Michael Kam, Justin D. Opfermann, Simon Leonard, Arjun S. Joshi, and A Krieger.
+
+          <i>IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2021.</i>
+          
+          We developed a supervised autonomous 3D path planning and control strategy for the Smart Tissue Autonomous Robot (STAR), leveraging biocompatible NIR markers to achieve precise soft tissue incisions, reducing surface and depth errors by over 40% and 50% compared to teleoperation methods.
+
   - title: Ph.D. Thesis
     layout: list
     content:
