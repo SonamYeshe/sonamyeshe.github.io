@@ -146,6 +146,8 @@ content:
           <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.</i>
           
           We developed an occupancy network-based approach for real-time tumor localization in deforming kidney phantoms during robot-assisted partial nephrectomy (RAPN), enabling accurate volumetric 3D tumor tracking at interactive speeds to enhance surgical precision.
+
+          Learn more on <a href="https://youtu.be/6olWJVnXCJA" style="color: #007BFF;" target="_blank">Oral Pitch Presentation video for IROS 2024</a>.
           
       - layout: left
         title: >
