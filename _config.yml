@@ -280,7 +280,7 @@ content:
       - layout: left
         title: >
           <div style="text-align: center;">
-            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2019_TMRB.JPG.JPG" alt="2019_TMRB" 
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2019_TMRB.JPG" alt="2019_TMRB" 
                  style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
           </div>
         description: | # this will include new lines to allow paragraphs
@@ -291,6 +291,21 @@ content:
           <i>IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2021.</i>
           
           We developed a supervised autonomous 3D path planning and control strategy for the Smart Tissue Autonomous Robot (STAR), leveraging biocompatible NIR markers to achieve precise soft tissue incisions, reducing surface and depth errors by over 40% and 50% compared to teleoperation methods.
+
+      - layout: left
+        title: >
+          <div style="text-align: center;">
+            <img src="https://raw.githubusercontent.com/SonamYeshe/sonamyeshe.github.io/master/images/2019_MICCAI.JPG" alt="2019_MICCAI" 
+                 style="aspect-ratio: 4 / 3; width: 320px; border-radius: 8px;">
+          </div>
+        description: | # this will include new lines to allow paragraphs
+          <a href="https://link.springer.com/chapter/10.1007/978-3-030-32239-7_36" style="color: #007BFF;" target="_blank"><b>Landmark-Guided Deformable Image Registration for Supervised Autonomous Robotic Tumor Resection</b></a>
+          
+          <b>Jiawei Ge</b>, Hamed Saeidi, Justin D Opfermann, Arjun S Joshi, Axel Krieger
+
+          <i>International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019.</i>
+          
+          We present a novel NIR fluorescent marking and deformable image registration method integrated with a robotic system, enabling precise prediction and tracking of deformed tumor resection margins and facilitating supervised autonomous tumor bed resections in ex vivo porcine tongue experiments.
 
   - title: Ph.D. Thesis
     layout: list
