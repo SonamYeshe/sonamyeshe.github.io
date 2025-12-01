@@ -54,12 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   I work with Professor Axel Krieger in the [IMERSE Lab](https://imerse.lcsr.jhu.edu), where we develop cutting-edge technologies to revolutionize robotic-assisted surgeries and improve patient outcomes.
 
 content:
-  - title: Ph.D. Thesis
-    layout: list
-    content:
-      - layout: top-middle
-        title: Advances in Medical Image Guided Autonomous Robotic Tumor Resection
-        link: https://jscholarship.library.jhu.edu/items/be00cd4a-d801-41e9-83b1-b6a3e17bf0c8
         
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
@@ -352,6 +346,13 @@ content:
         sub_title: B.E. Mechanical Engineering
         caption: 2011 - 2015
 
+  - title: Ph.D. Thesis
+    layout: list
+    content:
+      - layout: top-middle
+        title: Advances in Medical Image Guided Autonomous Robotic Tumor Resection
+        sub_title: Advisor: Dr. Axel Krieger
+        link: https://jscholarship.library.jhu.edu/items/be00cd4a-d801-41e9-83b1-b6a3e17bf0c8
 
 #  - title: Education # Title for the section
 #    layout: list # Type of content section (list/text)
