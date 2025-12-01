@@ -340,15 +340,15 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: Johns Hopkins University
+        title: Johns Hopkins University, Baltimore, MD, United States
         sub_title: Ph.D. Mechanical Engineering
         caption: 2017 - 2024
       - layout: top-middle
-        title: Columbia University
+        title: Columbia University, New York, NY, United States
         sub_title: M.S. Mechanical Engineering
         caption: 2015 - 2017
       - layout: top-middle
-        title: Huazhong University of Science and Technology (HUST)
+        title: Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China
         sub_title: B.E. Mechanical Engineering
         caption: 2011 - 2015
 
