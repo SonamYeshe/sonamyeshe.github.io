@@ -53,8 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   I work with Professor Axel Krieger in the [IMERSE Lab](https://imerse.lcsr.jhu.edu), where we develop cutting-edge technologies to revolutionize robotic-assisted surgeries and improve patient outcomes.
 
-content:
-        
+content: 
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     description: |
@@ -337,10 +336,12 @@ content:
         title: Johns Hopkins University, Baltimore, MD, United States
         sub_title: Ph.D. Mechanical Engineering
         caption: 2017 - 2024
+        
       - layout: top-middle
         title: Columbia University, New York, NY, United States
         sub_title: M.S. Mechanical Engineering
         caption: 2015 - 2017
+        
       - layout: top-middle
         title: Huazhong University of Science and Technology (HUST), Wuhan, Hubei, China
         sub_title: B.E. Mechanical Engineering
