@@ -343,39 +343,45 @@ content:
         title: Johns Hopkins University
         sub_title: Ph.D. Mechanical Engineering
         caption: 2017 - 2024
-        quote: >
-          Founded in 1876, Johns Hopkins University is widely recognized as America’s first research university, known for its rigorous scholarship, interdisciplinary collaboration, and leadership in science, engineering, and medicine.
-
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Johns Hopkins University
-        caption: 2017 - 2024
-        sub_title: Ph.D. Mechanical Engineering
-        quote: >
-          Founded in 1876, Johns Hopkins University is widely recognized as America’s first research university, known for its rigorous scholarship, interdisciplinary collaboration, and leadership in science, engineering, and medicine.
-        # description: | # this will include new lines to allow paragraphs
-          # During my PhD at Johns Hopkins, I developed deep expertise in designing and executing independent research—from framing questions and building reproducible workflows to synthesizing results and communicating them clearly. The program strengthened my quantitative reasoning, scholarly writing, and collaboration skills, while teaching me to manage long-term projects against tight milestones.
-
-          # Beyond my dissertation, I engaged with the broader Hopkins community through seminars and cross-lab collaborations, and I adopted open, well-documented practices for code and data. The experience taught me to balance curiosity-driven exploration with practical impact and effective teamwork.
-      - layout: left
+      - layout: top-middle
         title: Columbia University
-        caption: 2015 - 2017
         sub_title: M.S. Mechanical Engineering
-        quote: >
-          Founded in 1754, Columbia University is an Ivy League research university in New York City, renowned for rigorous scholarship, cross‑disciplinary innovation, and a global outlook—an ideal setting for advanced graduate study.
-        # description: |
-          # It was great.
-      - layout: left
+        caption: 2015 - 2017
+      - layout: top-middle
         title: Huazhong University of Science and Technology (HUST)
-        caption: 2011 - 2015
         sub_title: B.E. Mechanical Engineering
-        quote: >
-          Located in Wuhan, Huazhong University of Science and Technology (HUST) is one of China’s leading research universities, noted for its strength in engineering and applied sciences and a culture of rigorous, hands‑on innovation.
-        # description: |
-          # It was great.
+        caption: 2011 - 2015
+
+
+#  - title: Education # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Johns Hopkins University
+#        caption: 2017 - 2024
+#        sub_title: Ph.D. Mechanical Engineering
+#        quote: >
+#          Founded in 1876, Johns Hopkins University is widely recognized as America’s first research university, known for its rigorous scholarship, interdisciplinary collaboration, and leadership in science, engineering, and medicine.
+#        # description: | # this will include new lines to allow paragraphs
+#          # During my PhD at Johns Hopkins, I developed deep expertise in designing and executing independent research—from framing questions and building reproducible workflows to synthesizing results and communicating them clearly. The program strengthened my quantitative reasoning, scholarly writing, and collaboration skills, while teaching me to manage long-term projects against tight milestones.
+#
+#          # Beyond my dissertation, I engaged with the broader Hopkins community through seminars and cross-lab collaborations, and I adopted open, well-documented practices for code and data. The experience taught me to balance curiosity-driven exploration with practical impact and effective teamwork.
+#      - layout: left
+#        title: Columbia University
+#        caption: 2015 - 2017
+#        sub_title: M.S. Mechanical Engineering
+#        quote: >
+#          Founded in 1754, Columbia University is an Ivy League research university in New York City, renowned for rigorous scholarship, cross‑disciplinary innovation, and a global outlook—an ideal setting for advanced graduate study.
+#        # description: |
+#          # It was great.
+#      - layout: left
+#        title: Huazhong University of Science and Technology (HUST)
+#        caption: 2011 - 2015
+#        sub_title: B.E. Mechanical Engineering
+#        quote: >
+#          Located in Wuhan, Huazhong University of Science and Technology (HUST) is one of China’s leading research universities, noted for its strength in engineering and applied sciences and a culture of rigorous, hands‑on innovation.
+#        # description: |
+#          # It was great.
 
 #  - title: A Little More About Me
 #    layout: text
