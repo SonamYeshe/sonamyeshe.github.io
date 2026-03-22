@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Jiawei Ge
 title: Postdoctoral Researcher
-email: jge9@jhu.edu & jg3642@columbia.edu
+email: jiawei.ge@columbia.edu
 # website: sonamyeshe.github.io
 
 # Dark Mode (true/false/never)
@@ -20,7 +20,7 @@ googlescholar_username: zMFXyfMAAAAJ
 linkedin_username: jiawei-ge-phd-b29357114
 orcid_username: 0000-0001-8336-1837
 github_username: sonamyeshe
-instagram_username: gejiawei88
+# instagram_username: gejiawei88
 # youtube_username: @sonamyeshe2492
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
